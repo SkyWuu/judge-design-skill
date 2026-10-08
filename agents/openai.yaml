@@ -1,0 +1,4 @@
+interface:
+  display_name: "Judge & Rubric Design"
+  short_description: "Design and validate task-specific judges and rubrics"
+  default_prompt: "Use $judge-design to build or improve a scoring method for this task, including the rubric, judging protocol, and an appropriate validation plan."
